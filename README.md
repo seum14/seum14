@@ -17,7 +17,7 @@ Selected private projects developed under **Entivel**. Expand a project overview
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<picture><source media="(max-width: 600px)" srcset="./project-workspace-mobile-v4.svg" /><img src="./project-workspace-v5.svg" width="100%" alt="Explore Entivel Workspace, a private enterprise operations platform" /></picture>
+<picture><source media="(max-width: 600px)" srcset="./project-workspace-mobile-v6.svg" /><img src="./project-workspace-v6.svg" width="100%" alt="Entivel Workspace, private enterprise software project" /></picture>
 <details>
 <summary><strong>Explore Entivel Workspace</strong></summary>
 <h3>Entivel Workspace</h3>
@@ -27,7 +27,7 @@ Selected private projects developed under **Entivel**. Expand a project overview
 </details>
 </td>
 <td width="50%" valign="top">
-<picture><source media="(max-width: 600px)" srcset="./project-workforce-mobile-v4.svg" /><img src="./project-workforce-v5.svg" width="100%" alt="Explore Entivel Workforce, a private workforce and people operations platform" /></picture>
+<picture><source media="(max-width: 600px)" srcset="./project-workforce-mobile-v6.svg" /><img src="./project-workforce-v6.svg" width="100%" alt="Entivel Workforce, private enterprise software project" /></picture>
 <details>
 <summary><strong>Explore Entivel Workforce</strong></summary>
 <h3>Entivel Workforce</h3>
@@ -39,7 +39,7 @@ Selected private projects developed under **Entivel**. Expand a project overview
 </tr>
 <tr>
 <td width="50%" valign="top">
-<picture><source media="(max-width: 600px)" srcset="./project-pharma-mobile-v4.svg" /><img src="./project-pharma-v5.svg" width="100%" alt="Explore Entivel Pharmaceutical Operations, a private mobile and web software project" /></picture>
+<picture><source media="(max-width: 600px)" srcset="./project-pharma-mobile-v6.svg" /><img src="./project-pharma-v6.svg" width="100%" alt="Entivel Pharmaceutical Operations, private enterprise software project" /></picture>
 <details>
 <summary><strong>Explore Entivel Pharmaceutical Operations</strong></summary>
 <h3>Entivel Pharmaceutical Operations</h3>
@@ -49,7 +49,51 @@ Selected private projects developed under **Entivel**. Expand a project overview
 </details>
 </td>
 <td width="50%" valign="top">
-<picture><source media="(max-width: 600px)" srcset="./project-digital-mobile-v4.svg" /><img src="./project-digital-v5.svg" width="100%" alt="Explore Entivel and Tivelin Web Platforms, private website development projects" /></picture>
+<picture><source media="(max-width: 600px)" srcset="./project-erp-mobile-v6.svg" /><img src="./project-erp-v6.svg" width="100%" alt="Pharmaceutical ERP, private enterprise software project" /></picture>
+<details>
+<summary><strong>Explore Pharmaceutical ERP</strong></summary>
+<h3>Pharmaceutical ERP</h3>
+<p>A private enterprise resource planning project for pharmaceutical business operations.</p>
+<p><strong>Areas of work:</strong> Business application development and connected operational workflows.</p>
+<p><strong>Focus:</strong> Organising industry-specific processes through structured business software.</p>
+</details>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<picture><source media="(max-width: 600px)" srcset="./project-invoicing-mobile-v6.svg" /><img src="./project-invoicing-v6.svg" width="100%" alt="Business Invoicing Platform, private enterprise software project" /></picture>
+<details>
+<summary><strong>Explore Business Invoicing Platform</strong></summary>
+<h3>Business Invoicing Platform</h3>
+<p>A private business application focused on invoicing and related administrative workflows.</p>
+<p><strong>Areas of work:</strong> Invoice workflows, business data and application development.</p>
+<p><strong>Focus:</strong> Supporting practical financial administration through purpose-built software.</p>
+</details>
+</td>
+<td width="50%" valign="top">
+<picture><source media="(max-width: 600px)" srcset="./project-social-mobile-v6.svg" /><img src="./project-social-v6.svg" width="100%" alt="Entivel Social Growth Platform, private enterprise software project" /></picture>
+<details>
+<summary><strong>Explore Entivel Social Growth Platform</strong></summary>
+<h3>Entivel Social Growth Platform</h3>
+<p>A private platform supporting social content strategy, campaign planning and engagement workflows.</p>
+<p><strong>Areas of work:</strong> AI-assisted content operations, campaign workflows and engagement management.</p>
+<p><strong>Focus:</strong> Connecting content planning with practical business growth workflows.</p>
+</details>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<picture><source media="(max-width: 600px)" srcset="./project-newsroom-mobile-v6.svg" /><img src="./project-newsroom-v6.svg" width="100%" alt="Entivel Newsroom, private enterprise software project" /></picture>
+<details>
+<summary><strong>Explore Entivel Newsroom</strong></summary>
+<h3>Entivel Newsroom</h3>
+<p>A private business newsroom project supporting editorial content and publishing workflows.</p>
+<p><strong>Areas of work:</strong> AI-assisted content creation, editorial review and publishing operations.</p>
+<p><strong>Focus:</strong> Bringing content production and editorial control into a connected workflow.</p>
+</details>
+</td>
+<td width="50%" valign="top">
+<picture><source media="(max-width: 600px)" srcset="./project-digital-mobile-v6.svg" /><img src="./project-digital-v6.svg" width="100%" alt="Entivel and Tivelin Web Platforms, private enterprise software project" /></picture>
 <details>
 <summary><strong>Explore Entivel and Tivelin Web Platforms</strong></summary>
 <h3>Entivel and Tivelin Web Platforms</h3>
@@ -61,12 +105,7 @@ Selected private projects developed under **Entivel**. Expand a project overview
 </tr>
 </table>
 
-<details>
-<summary><strong>Additional private projects</strong></summary>
 
-My private development portfolio also includes **Entivel Social**, **Entivel Newsroom**, and earlier ERP and invoicing projects.
-
-</details>
 
 <sub>All featured enterprise repositories remain private. These summaries share project names and broad areas of work. Source code, internal architecture, business data and implementation details are confidential.</sub>
 
