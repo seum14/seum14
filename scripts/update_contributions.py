@@ -234,7 +234,12 @@ def main():
         start, end = '<!-- CONTRIBUTION-YEARS:START -->', '<!-- CONTRIBUTION-YEARS:END -->'
         if start in readme and end in readme:
             links = ' · '.join(f'[{y["year"]}](https://github.com/{USER}?tab=overview&from={y["year"]}-01-01&to={summary["through_date"] if y["year"] == summary["current_year"] else str(y["year"])+"-12-31"})' for y in summary['annual'])
-            readme_path.write_text(readme[:readme.index(start)+len(start)]+'\n\n'+links+'\n\n'+readme[readme.index(end):])
+            readme = readme[:readme.index(start)+len(start)]+'\n\n'+links+'\n\n'+readme[readme.index(end):]
+        # A fresh source URL prevents cached README images showing older totals.
+        stamp = datetime.fromisoformat(summary['updated_at'].replace('Z', '+00:00')).strftime('%Y%m%dT%H%M%SZ')
+        image_pattern = r'(?:\./|https://raw\.githubusercontent\.com/'+USER+r'/'+USER+r'/main/)(contributions-(?:stats|heatmap|history)(?:-mobile)?-v1\.svg)(?:\?refresh=[A-Za-z0-9]+)?'
+        readme = re.sub(image_pattern, lambda m:f'https://raw.githubusercontent.com/{USER}/{USER}/main/{m[1]}?refresh={stamp}', readme)
+        readme_path.write_text(readme)
     print(json.dumps({k:summary[k] for k in ['lifetime_contributions','current_year_contributions','active_days_this_year','longest_streak_this_year']}))
 
 
