@@ -71,7 +71,7 @@ Selected private projects developed under **Entivel**. Expand a project overview
 </details>
 </td>
 <td width="50%" valign="top">
-<picture><source media="(max-width: 600px)" srcset="./project-social-mobile-v6.svg" /><img src="./project-social-v6.svg" width="100%" alt="Entivel Social Growth Platform, private enterprise software project" /></picture>
+<picture><source media="(max-width: 600px)" srcset="./project-social-mobile-v6.svg" /><img src="./project-social-v7.svg" width="100%" alt="Entivel Social Growth Platform, private enterprise software project" /></picture>
 <details>
 <summary><strong>Explore Entivel Social Growth Platform</strong></summary>
 <h3>Entivel Social Growth Platform</h3>
