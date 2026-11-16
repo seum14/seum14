@@ -12,7 +12,7 @@
 
 ## Enterprise portfolio
 
-Selected private projects developed under **Entivel**. Expand a project overview below each card.
+Recent enterprise work under **Entivel**, alongside selected private business applications. Expand a project overview below each card.
 
 <table width="100%">
 <tr>
