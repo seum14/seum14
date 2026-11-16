@@ -5,6 +5,7 @@
 <p align="center">
   <a href="#enterprise-portfolio"><img src="./nav-projects-v4.svg" height="28" alt="Explore Projects" /></a>
   <a href="#engineering-toolkit"><img src="./nav-toolkit-v4.svg" height="28" alt="Technology" /></a>
+  <a href="#contributions-and-activity"><img src="./nav-activity-v1.svg" height="28" alt="Activity" /></a>
   <a href="#education"><img src="./nav-education-v4.svg" height="28" alt="Education" /></a>
 </p>
 
@@ -108,6 +109,29 @@ Recent enterprise work under **Entivel**, alongside selected private business ap
 
 
 <sub>All featured enterprise repositories remain private. These summaries share project names and broad areas of work. Source code, internal architecture, business data and implementation details are confidential.</sub>
+
+## Contributions and activity
+
+Public and private work, shown through aggregate GitHub contribution counts.
+
+<picture><source media="(max-width: 600px)" srcset="./contributions-stats-mobile-v1.svg" /><img src="./contributions-stats-v1.svg" width="100%" alt="Total contributions, current-year contributions, active days and longest contribution streak. Public and private activity included." /></picture>
+
+<a href="https://github.com/seum14?tab=overview#year-list-container"><picture><source media="(max-width: 600px)" srcset="./contributions-heatmap-mobile-v1.svg" /><img src="./contributions-heatmap-v1.svg" width="100%" alt="Past-year contribution heatmap. Open the GitHub contribution timeline." /></picture></a>
+
+<picture><source media="(max-width: 600px)" srcset="./contributions-history-mobile-v1.svg" /><img src="./contributions-history-v1.svg" width="100%" alt="Annual contribution history since 2022. The current year is shown to date." /></picture>
+
+<details>
+<summary><strong>Explore contribution years on GitHub</strong></summary>
+
+<!-- CONTRIBUTION-YEARS:START -->
+
+[2022](https://github.com/seum14?tab=overview&from=2022-01-01&to=2022-12-31) · [2023](https://github.com/seum14?tab=overview&from=2023-01-01&to=2023-12-31) · [2024](https://github.com/seum14?tab=overview&from=2024-01-01&to=2024-12-31) · [2025](https://github.com/seum14?tab=overview&from=2025-01-01&to=2025-12-31) · [2026](https://github.com/seum14?tab=overview&from=2026-01-01&to=2026-11-16)
+
+<!-- CONTRIBUTION-YEARS:END -->
+
+</details>
+
+<sub>Refreshed daily from GitHub's contribution record. Private activity is anonymized; repository contents and access remain private.</sub>
 
 ## Engineering toolkit
 
