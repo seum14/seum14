@@ -1,39 +1,92 @@
 <p align="center">
-  <img src="./enterprise-banner.svg" alt="Khalid Hasan Seum | Enterprise software and business systems" width="100%" />
+  <img src="./hero-enterprise-v4.svg" width="100%" alt="Khalid Hasan Seum | Enterprise software. Connected platforms and real business workflows." />
 </p>
 
-My focus is **enterprise software**: building connected business platforms and tools that turn complex operations into clear, usable workflows. My work spans full-stack applications, operational systems and mobile experiences.
+<p align="center">
+  <a href="#enterprise-portfolio"><img src="./nav-projects-v4.svg" height="36" alt="Explore Projects" /></a>
+  <a href="#engineering-toolkit"><img src="./nav-toolkit-v4.svg" height="36" alt="Technology" /></a>
+  <a href="#education"><img src="./nav-education-v4.svg" height="36" alt="Education" /></a>
+</p>
 
-**Sydney, Australia** · [Explore my repositories](https://github.com/seum14?tab=repositories)
+<p align="center">I focus on <strong>enterprise software</strong>: connected business platforms, workforce systems and operational tools.<br/>My recent work spans full-stack applications, web platforms and mobile experiences.</p>
 
-**Bachelor of Information Technology (Cyber Security)** · **CQUniversity, 2023** · **Graduated with Distinction**
+## Enterprise portfolio
 
-## Enterprise software work at Entivel
+Selected private projects developed under **Entivel**. Click a project card to expand its overview.
 
-My recent development work under **Entivel** spans private enterprise platforms and operational tools:
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<details>
+<summary><img src="./project-workspace-v4.svg" width="100%" alt="Explore Entivel Workspace, a private enterprise operations platform" /></summary>
+<h3>Entivel Workspace</h3>
+<p>A connected business workspace bringing core operational workflows into one platform.</p>
+<p><strong>Areas of work:</strong> Enterprise applications, business workflows, finance, customer operations and supply-chain processes.</p>
+<p><strong>Focus:</strong> Turning complex, connected business requirements into usable software experiences.</p>
+</details>
+</td>
+<td width="50%" valign="top">
+<details>
+<summary><img src="./project-workforce-v4.svg" width="100%" alt="Explore Entivel Workforce, a private workforce and people operations platform" /></summary>
+<h3>Entivel Workforce</h3>
+<p>A workforce platform supporting people operations and employee workflows.</p>
+<p><strong>Areas of work:</strong> HR applications, employee lifecycle workflows and workforce operations.</p>
+<p><strong>Focus:</strong> Connecting everyday people processes through clear, consistent application experiences.</p>
+</details>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<details>
+<summary><img src="./project-pharma-v4.svg" width="100%" alt="Explore Entivel Pharmaceutical Operations, a private mobile and web software project" /></summary>
+<h3>Entivel Pharmaceutical Operations</h3>
+<p>Mobile and web software supporting pharmaceutical distribution and operational workflows.</p>
+<p><strong>Areas of work:</strong> Industry-specific business software, mobile experiences and operational data workflows.</p>
+<p><strong>Focus:</strong> Making practical business processes accessible through purpose-built applications.</p>
+</details>
+</td>
+<td width="50%" valign="top">
+<details>
+<summary><img src="./project-digital-v4.svg" width="100%" alt="Explore Entivel and Tivelin Web Platforms, private website development projects" /></summary>
+<h3>Entivel and Tivelin Web Platforms</h3>
+<p>Business websites and supporting web experiences across Entivel and Tivelin.</p>
+<p><strong>Areas of work:</strong> Web application development, responsive interfaces and digital presentation.</p>
+<p><strong>Focus:</strong> Translating business information into clear, usable online experiences.</p>
+</details>
+</td>
+</tr>
+</table>
 
-- **Business workspaces:** Applications that bring everyday business workflows into a connected experience.
-- **Workforce systems:** Tools supporting people operations and employee workflows.
-- **Pharmaceutical operations:** Mobile and web software supporting distribution workflows.
-- **Digital experiences:** Websites and supporting web applications.
+<details>
+<summary><strong>Additional private projects</strong></summary>
 
-These projects are maintained in private repositories. This overview shares broad areas of work only; source code, internal architecture, business data and implementation details remain confidential.
+My private development portfolio also includes **Entivel Social**, **Entivel Newsroom**, and earlier ERP and invoicing projects.
 
-## Earlier public projects
+</details>
 
-These academic and portfolio projects show the foundations behind my work in software, systems and project delivery.
+<sub>All featured enterprise repositories remain private. These summaries share project names and broad areas of work. Source code, internal architecture, business data and implementation details are confidential.</sub>
 
-| Project | Focus & deliverables |
+## Engineering toolkit
+
+<img src="./toolkit-v4.svg" width="100%" alt="Backend and data: Python, Django, DRF, PostgreSQL, Redis. Web and mobile: TypeScript, React, Next.js, Tailwind CSS, Kotlin, Jetpack Compose. Delivery: Docker, Nginx and Git." />
+
+## Education
+
+<img src="./education-v4.svg" width="100%" alt="Bachelor of Information Technology, Cyber Security. CQUniversity, completed 2023. Graduated with Distinction." />
+
+<details>
+<summary><strong>Public projects and academic portfolio</strong></summary>
+
+Earlier work documenting the foundations behind my software development, systems design and project-delivery skills:
+
+| Project | Focus |
 | --- | --- |
-| [Restaurant Management System](https://github.com/seum14/Restaurant-Management-Project) | Java and MySQL application with separate manager, staff and customer workflows, ordering, menu management and reviews. |
-| [Multi-Campus Network Design](https://github.com/seum14/Multi-Campus-University-Network-Design) | University network design covering capacity planning, equipment selection, wired and wireless connectivity, diagrams and budget considerations. |
-| [Modern Sketching Tools Web Prototype](https://github.com/seum14/Hi-fidelity-Prototype) | Responsive website prototype with product discovery, interactive navigation, dark mode and documented user acceptance testing. |
-| [Project Planning & Scheduling](https://github.com/seum14/Wedding-Project-Management) | A 180-day Microsoft Project plan with a work breakdown structure, dependencies, resource allocation and critical path analysis. |
+| [Restaurant Management System](https://github.com/seum14/Restaurant-Management-Project) | Java, MySQL and role-specific application workflows |
+| [Multi-Campus University Network Design](https://github.com/seum14/Multi-Campus-University-Network-Design) | Network architecture, infrastructure planning and design documentation |
+| [Modern Sketching Tools Web Prototype](https://github.com/seum14/Hi-fidelity-Prototype) | Responsive interfaces, interactive prototyping and usability testing |
+| [Project Planning and Scheduling](https://github.com/seum14/Wedding-Project-Management) | Microsoft Project, dependencies, resource planning and critical path analysis |
+| [Professional Communication Portfolio](https://github.com/seum14/ePortfolio) | Communication, teamwork and conflict resolution |
 
-## Tools & foundations
+</details>
 
-- **Backend & data:** Python, Django, Django REST Framework, PostgreSQL and MySQL
-- **Web & mobile:** TypeScript, React, Next.js, Tailwind CSS, Kotlin and Jetpack Compose
-- **Additional foundations:** Java, Docker and Nginx
-- **Systems & delivery:** Network design, requirements analysis, usability testing, technical documentation and project planning
-
+<p align="center"><sub>Enterprise software · Business systems · Practical engineering</sub></p>
