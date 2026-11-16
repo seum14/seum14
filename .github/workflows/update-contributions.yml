@@ -1,0 +1,40 @@
+name: Refresh contribution visuals
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 3 * * *'
+  push:
+    paths:
+      - scripts/update_contributions.py
+      - .github/workflows/update-contributions.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-visual-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.13'
+      - name: Read public aggregate calendars and render visuals
+        run: python scripts/update_contributions.py
+      - name: Publish updated contribution visuals
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md contribution-summary.json contributions-*.svg
+          if git diff --cached --quiet; then
+            echo 'Contribution visuals are already current.'
+          else
+            git commit -m 'Refresh aggregate contribution visuals [skip ci]'
+            git push
+          fi
