@@ -1,24 +1,25 @@
 <p align="center">
-  <img src="./hero-enterprise-v4.svg" width="100%" alt="Khalid Hasan Seum | Enterprise software. Connected platforms and real business workflows." />
+  <picture><source media="(max-width: 600px)" srcset="./hero-mobile-v4.svg" /><img src="./hero-enterprise-v4.svg" width="100%" alt="Khalid Hasan Seum | Enterprise software. Connected platforms and real business workflows." /></picture>
 </p>
 
 <p align="center">
-  <a href="#enterprise-portfolio"><img src="./nav-projects-v4.svg" height="36" alt="Explore Projects" /></a>
-  <a href="#engineering-toolkit"><img src="./nav-toolkit-v4.svg" height="36" alt="Technology" /></a>
-  <a href="#education"><img src="./nav-education-v4.svg" height="36" alt="Education" /></a>
+  <a href="#enterprise-portfolio"><img src="./nav-projects-v4.svg" height="28" alt="Explore Projects" /></a>
+  <a href="#engineering-toolkit"><img src="./nav-toolkit-v4.svg" height="28" alt="Technology" /></a>
+  <a href="#education"><img src="./nav-education-v4.svg" height="28" alt="Education" /></a>
 </p>
 
 <p align="center">I focus on <strong>enterprise software</strong>: connected business platforms, workforce systems and operational tools.<br/>My recent work spans full-stack applications, web platforms and mobile experiences.</p>
 
 ## Enterprise portfolio
 
-Selected private projects developed under **Entivel**. Click a project card to expand its overview.
+Selected private projects developed under **Entivel**. Expand a project overview below each card.
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
+<picture><source media="(max-width: 600px)" srcset="./project-workspace-mobile-v4.svg" /><img src="./project-workspace-v5.svg" width="100%" alt="Explore Entivel Workspace, a private enterprise operations platform" /></picture>
 <details>
-<summary><img src="./project-workspace-v4.svg" width="100%" alt="Explore Entivel Workspace, a private enterprise operations platform" /></summary>
+<summary><strong>Explore Entivel Workspace</strong></summary>
 <h3>Entivel Workspace</h3>
 <p>A connected business workspace bringing core operational workflows into one platform.</p>
 <p><strong>Areas of work:</strong> Enterprise applications, business workflows, finance, customer operations and supply-chain processes.</p>
@@ -26,8 +27,9 @@ Selected private projects developed under **Entivel**. Click a project card to e
 </details>
 </td>
 <td width="50%" valign="top">
+<picture><source media="(max-width: 600px)" srcset="./project-workforce-mobile-v4.svg" /><img src="./project-workforce-v5.svg" width="100%" alt="Explore Entivel Workforce, a private workforce and people operations platform" /></picture>
 <details>
-<summary><img src="./project-workforce-v4.svg" width="100%" alt="Explore Entivel Workforce, a private workforce and people operations platform" /></summary>
+<summary><strong>Explore Entivel Workforce</strong></summary>
 <h3>Entivel Workforce</h3>
 <p>A workforce platform supporting people operations and employee workflows.</p>
 <p><strong>Areas of work:</strong> HR applications, employee lifecycle workflows and workforce operations.</p>
@@ -37,8 +39,9 @@ Selected private projects developed under **Entivel**. Click a project card to e
 </tr>
 <tr>
 <td width="50%" valign="top">
+<picture><source media="(max-width: 600px)" srcset="./project-pharma-mobile-v4.svg" /><img src="./project-pharma-v5.svg" width="100%" alt="Explore Entivel Pharmaceutical Operations, a private mobile and web software project" /></picture>
 <details>
-<summary><img src="./project-pharma-v4.svg" width="100%" alt="Explore Entivel Pharmaceutical Operations, a private mobile and web software project" /></summary>
+<summary><strong>Explore Entivel Pharmaceutical Operations</strong></summary>
 <h3>Entivel Pharmaceutical Operations</h3>
 <p>Mobile and web software supporting pharmaceutical distribution and operational workflows.</p>
 <p><strong>Areas of work:</strong> Industry-specific business software, mobile experiences and operational data workflows.</p>
@@ -46,8 +49,9 @@ Selected private projects developed under **Entivel**. Click a project card to e
 </details>
 </td>
 <td width="50%" valign="top">
+<picture><source media="(max-width: 600px)" srcset="./project-digital-mobile-v4.svg" /><img src="./project-digital-v5.svg" width="100%" alt="Explore Entivel and Tivelin Web Platforms, private website development projects" /></picture>
 <details>
-<summary><img src="./project-digital-v4.svg" width="100%" alt="Explore Entivel and Tivelin Web Platforms, private website development projects" /></summary>
+<summary><strong>Explore Entivel and Tivelin Web Platforms</strong></summary>
 <h3>Entivel and Tivelin Web Platforms</h3>
 <p>Business websites and supporting web experiences across Entivel and Tivelin.</p>
 <p><strong>Areas of work:</strong> Web application development, responsive interfaces and digital presentation.</p>
@@ -68,11 +72,11 @@ My private development portfolio also includes **Entivel Social**, **Entivel New
 
 ## Engineering toolkit
 
-<img src="./toolkit-v4.svg" width="100%" alt="Backend and data: Python, Django, DRF, PostgreSQL, Redis. Web and mobile: TypeScript, React, Next.js, Tailwind CSS, Kotlin, Jetpack Compose. Delivery: Docker, Nginx and Git." />
+<picture><source media="(max-width: 600px)" srcset="./toolkit-mobile-v4.svg" /><img src="./toolkit-v4.svg" width="100%" alt="Backend and data: Python, Django, DRF, PostgreSQL, Redis. Web and mobile: TypeScript, React, Next.js, Tailwind CSS, Kotlin, Jetpack Compose. Delivery: Docker, Nginx and Git." /></picture>
 
 ## Education
 
-<img src="./education-v4.svg" width="100%" alt="Bachelor of Information Technology, Cyber Security. CQUniversity, completed 2023. Graduated with Distinction." />
+<picture><source media="(max-width: 600px)" srcset="./education-mobile-v4.svg" /><img src="./education-v4.svg" width="100%" alt="Bachelor of Information Technology, Cyber Security. CQUniversity, completed 2023. Graduated with Distinction." /></picture>
 
 <details>
 <summary><strong>Public projects and academic portfolio</strong></summary>
