@@ -4,7 +4,7 @@
 
 My focus is **enterprise software**: building connected business platforms and tools that turn complex operations into clear, usable workflows. My work spans full-stack applications, operational systems and mobile experiences.
 
-**Sydney, Australia** · [LinkedIn](https://www.linkedin.com/in/seum14/) · [Explore my repositories](https://github.com/seum14?tab=repositories)
+**Sydney, Australia** · [Explore my repositories](https://github.com/seum14?tab=repositories)
 
 **Bachelor of Information Technology (Cyber Security)** · **CQUniversity, 2023** · **Graduated with Distinction**
 
@@ -37,6 +37,3 @@ These academic and portfolio projects show the foundations behind my work in sof
 - **Additional foundations:** Java, Docker and Nginx
 - **Systems & delivery:** Network design, requirements analysis, usability testing, technical documentation and project planning
 
-## Connect
-
-For technical conversations, collaboration or a discussion of my work, connect with me on [LinkedIn](https://www.linkedin.com/in/seum14/).
