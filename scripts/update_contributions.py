@@ -114,12 +114,26 @@ def summarize(data, today):
     recent = data['recent']
     if sum(d['count'] for d in recent['days']) != heading_total(recent):
         raise ValueError('Past-year calendar total does not match its daily counts')
+    # Calendar endpoints can refresh at different times. Use the same annual
+    # daily records for both the lifetime total and the rolling-year visual.
+    canonical = {d['date']: d['count'] for entry in data['years'] for d in entry['days']
+                 if d['date'].startswith(str(entry['year'])) and d['date'] <= today.isoformat()}
+    if any(d['date'] not in canonical for d in recent['days']):
+        raise ValueError('Annual records do not cover the visible past-year period')
+    for day in recent['days']:
+        day['count'] = canonical[day['date']]
+        if day['count'] == 0:
+            day['level'] = 0
+        elif day['level'] == 0:
+            day['level'] = 1
+    recent_total = sum(d['count'] for d in recent['days'])
+    recent['heading'] = re.sub(r'^[\d,]+', str(recent_total), recent['heading'])
     return {
         'user': USER, 'updated_at': data['collectedAt'], 'first_year': FIRST_YEAR,
         'through_date': today.isoformat(), 'lifetime_contributions': sum(y['contributions'] for y in annual),
         'current_year': today.year, 'current_year_contributions': heading_total(current),
         'active_days_this_year': sum(d['count'] > 0 for d in days), 'longest_streak_this_year': best,
-        'past_year_contributions': heading_total(recent), 'annual': annual,
+        'past_year_contributions': recent_total, 'annual': annual,
         'scope': 'Public and anonymized private contributions shown on the public GitHub profile',
         'source': f'https://github.com/{USER}',
     }
