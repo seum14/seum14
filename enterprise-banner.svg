@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Khalid Hasan Seum</title>
+  <desc id="desc">Enterprise software and business systems. A clean navy banner with a teal network motif.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1728"/><stop offset="1" stop-color="#152c3d"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#7dd3fc"/></linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <path d="M0 298H1200" stroke="url(#accent)" stroke-width="4"/>
+  <g fill="none" stroke="#52748c" stroke-width="1.4" opacity=".28">
+    <path d="M875 0V72L960 122V218L1090 292M960 122L1070 58H1200M960 218L859 277M1070 58V185L1151 232H1200M1070 185L960 122"/>
+    <path d="M1011 0V35L1135 107V174L1200 212M859 277V300"/>
+  </g>
+  <g fill="#5eead4">
+    <circle cx="960" cy="122" r="6"/><circle cx="1070" cy="58" r="4"/><circle cx="1070" cy="185" r="5"/><circle cx="960" cy="218" r="4"/>
+  </g>
+  <rect x="54" y="47" width="42" height="4" rx="2" fill="url(#accent)"/>
+  <text x="54" y="92" fill="#90b6c5" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="3">ENTERPRISE SOFTWARE / BUSINESS SYSTEMS</text>
+  <text x="51" y="158" fill="#f1f5f9" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-1.6">Khalid Hasan Seum</text>
+  <text x="54" y="205" fill="#b8cad8" font-family="Segoe UI, Arial, sans-serif" font-size="19">Connected platforms. Practical workflows. Thoughtful engineering.</text>
+  <text x="55" y="257" fill="#5eead4" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="2.5">SEUM14</text>
+</svg>

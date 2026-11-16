@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner.svg" alt="Khalid Hasan Seum | Enterprise software and business systems" width="100%" />
+  <img src="./enterprise-banner.svg" alt="Khalid Hasan Seum | Enterprise software and business systems" width="100%" />
 </p>
 
 My focus is **enterprise software**: building connected business platforms and tools that turn complex operations into clear, usable workflows. My work spans full-stack applications, operational systems and mobile experiences.
