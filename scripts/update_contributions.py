@@ -156,16 +156,16 @@ def stats(summary, mobile=False):
         (f'LONGEST STREAK IN {year}', summary['longest_streak_this_year'], 'Consecutive active days', '#ffce85'),
     ]
     width, height = (600, 510) if mobile else (1200, 260)
-    body = text(28, 38, 'CONTRIBUTION RECORD', 17 if mobile else 14, '#9bb2cd', 600, 'letter-spacing="2"')
+    body = text(28, 38, 'CONTRIBUTION RECORD', 21 if mobile else 14, '#9bb2cd', 600, 'letter-spacing="2"')
     body += '<circle class="signal" cx="565" cy="32" r="4" fill="#65e5bf"/>' if mobile else '<circle class="signal" cx="1159" cy="32" r="4" fill="#65e5bf"/>'
     for i, (label, value, caption, color) in enumerate(metrics):
         x = 23 + (i % 2) * 283 if mobile else 24 + i * 290
         y = 65 + (i // 2) * 195 if mobile else 63
         w, h = (271, 180) if mobile else (276, 154)
         body += f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="13" fill="#14243a" stroke="#2a405d"/>'
-        body += text(x+18, y+29, label, 12 if mobile else 11, '#a9bed6', 600, 'letter-spacing=".7"')
+        body += text(x+18, y+29, label, 20 if mobile else 11, '#a9bed6', 600, 'letter-spacing=".7"')
         body += text(x+17, y+104 if mobile else y+97, f'{value:,}', 65 if mobile else 61, color, 750)
-        body += text(x+19, y+147 if mobile else y+128, caption, 17 if mobile else 13, '#94abc5')
+        body += text(x+19, y+147 if mobile else y+128, caption, 19 if mobile else 13, '#94abc5')
     stamp = datetime.fromisoformat(summary['updated_at'].replace('Z', '+00:00')).strftime('%d %b %Y, %H:%M UTC')
     body += text(27, 481 if mobile else 243, f'Public + private activity  |  Updated {stamp}', 14 if mobile else 12, '#839dbb')
     return svg(width, height, body, 'GitHub contribution totals including public and anonymized private activity')
