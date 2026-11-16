@@ -1,39 +1,39 @@
 {
   "user": "seum14",
-  "updated_at": "2026-11-16T10:44:20.041Z",
+  "updated_at": "2026-11-16T10:54:26.645480+00:00",
   "first_year": 2022,
   "through_date": "2026-11-16",
-  "lifetime_contributions": 367,
+  "lifetime_contributions": 370,
   "current_year": 2026,
-  "current_year_contributions": 241,
+  "current_year_contributions": 244,
   "active_days_this_year": 71,
   "longest_streak_this_year": 17,
-  "past_year_contributions": 241,
+  "past_year_contributions": 244,
   "annual": [
     {
       "year": 2022,
       "contributions": 30,
-      "source": "https://github.com/seum14?tab=overview&from=2022-12-01&to=2022-12-31"
+      "source": "https://github.com/users/seum14/contributions?from=2022-01-01&to=2022-12-31"
     },
     {
       "year": 2023,
       "contributions": 2,
-      "source": "https://github.com/seum14?tab=overview&from=2023-12-01&to=2023-12-31"
+      "source": "https://github.com/users/seum14/contributions?from=2023-01-01&to=2023-12-31"
     },
     {
       "year": 2024,
       "contributions": 58,
-      "source": "https://github.com/seum14?tab=overview&from=2024-12-01&to=2024-12-31"
+      "source": "https://github.com/users/seum14/contributions?from=2024-01-01&to=2024-12-31"
     },
     {
       "year": 2025,
       "contributions": 36,
-      "source": "https://github.com/seum14?tab=overview&from=2025-12-01&to=2025-12-31"
+      "source": "https://github.com/users/seum14/contributions?from=2025-01-01&to=2025-12-31"
     },
     {
       "year": 2026,
-      "contributions": 241,
-      "source": "https://github.com/seum14?tab=overview&from=2026-11-01&to=2026-11-16"
+      "contributions": 244,
+      "source": "https://github.com/users/seum14/contributions?from=2026-01-01&to=2026-12-31"
     }
   ],
   "scope": "Public and anonymized private contributions shown on the public GitHub profile",
