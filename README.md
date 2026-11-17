@@ -114,18 +114,18 @@ Recent enterprise work under **Entivel**, alongside selected private business ap
 
 Public and private work, shown through aggregate GitHub contribution counts.
 
-<picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/seum14/seum14/main/contributions-stats-mobile-20261116111359.svg" /><img src="https://raw.githubusercontent.com/seum14/seum14/main/contributions-stats-20261116111359.svg" width="100%" alt="Total contributions, current-year contributions, active days and longest contribution streak. Public and private activity included." /></picture>
+<picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/seum14/seum14/main/contributions-stats-mobile-20261117120140.svg" /><img src="https://raw.githubusercontent.com/seum14/seum14/main/contributions-stats-20261117120140.svg" width="100%" alt="Total contributions, current-year contributions, active days and longest contribution streak. Public and private activity included." /></picture>
 
-<a href="https://github.com/seum14?tab=overview#year-list-container"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/seum14/seum14/main/contributions-heatmap-mobile-20261116111359.svg" /><img src="https://raw.githubusercontent.com/seum14/seum14/main/contributions-heatmap-20261116111359.svg" width="100%" alt="Past-year contribution heatmap. Open the GitHub contribution timeline." /></picture></a>
+<a href="https://github.com/seum14?tab=overview#year-list-container"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/seum14/seum14/main/contributions-heatmap-mobile-20261117120140.svg" /><img src="https://raw.githubusercontent.com/seum14/seum14/main/contributions-heatmap-20261117120140.svg" width="100%" alt="Past-year contribution heatmap. Open the GitHub contribution timeline." /></picture></a>
 
-<picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/seum14/seum14/main/contributions-history-mobile-20261116111359.svg" /><img src="https://raw.githubusercontent.com/seum14/seum14/main/contributions-history-20261116111359.svg" width="100%" alt="Annual contribution history since 2022. The current year is shown to date." /></picture>
+<picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/seum14/seum14/main/contributions-history-mobile-20261117120140.svg" /><img src="https://raw.githubusercontent.com/seum14/seum14/main/contributions-history-20261117120140.svg" width="100%" alt="Annual contribution history since 2022. The current year is shown to date." /></picture>
 
 <details>
 <summary><strong>Explore contribution years on GitHub</strong></summary>
 
 <!-- CONTRIBUTION-YEARS:START -->
 
-[2022](https://github.com/seum14?tab=overview&from=2022-01-01&to=2022-12-31) · [2023](https://github.com/seum14?tab=overview&from=2023-01-01&to=2023-12-31) · [2024](https://github.com/seum14?tab=overview&from=2024-01-01&to=2024-12-31) · [2025](https://github.com/seum14?tab=overview&from=2025-01-01&to=2025-12-31) · [2026](https://github.com/seum14?tab=overview&from=2026-01-01&to=2026-11-16)
+[2022](https://github.com/seum14?tab=overview&from=2022-01-01&to=2022-12-31) · [2023](https://github.com/seum14?tab=overview&from=2023-01-01&to=2023-12-31) · [2024](https://github.com/seum14?tab=overview&from=2024-01-01&to=2024-12-31) · [2025](https://github.com/seum14?tab=overview&from=2025-01-01&to=2025-12-31) · [2026](https://github.com/seum14?tab=overview&from=2026-01-01&to=2026-11-17)
 
 <!-- CONTRIBUTION-YEARS:END -->
 
